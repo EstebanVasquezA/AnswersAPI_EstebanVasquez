@@ -10,6 +10,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AnswersAPI_EstebanVasquez.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace AnswersAPI_EstebanVasquez
 {
@@ -27,6 +29,11 @@ namespace AnswersAPI_EstebanVasquez
         {
 
             services.AddControllers();
+
+            var conn = "SERVER=.;DATABASE=AnswersDB;User Id=AnswerUser;Password=admin";
+
+            services.AddDbContext<AnswersDBContext>(options => options.UseSqlServer(conn));
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "AnswersAPI_EstebanVasquez", Version = "v1" });
