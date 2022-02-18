@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yMAhPQ21zSrq1wuwMUXHQd8oEGaP7Eg/TUNvmfzdD9Xm9rXCcUh0lCSC2z7B6Yn0B/snWqMcDKNdPl7YENkV2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus VivoBook\\Desktop\\Universidad\\Progra 6\\Proyecto Clase\\APP\\AnswersAPP_EstebanVasquez\\AnswersAPP_EstebanVasquez\\AnswersAPP_EstebanVasquez\\AnswersAPP_EstebanVasquez.iOS\\AnswersAPP_EstebanVasquez.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
