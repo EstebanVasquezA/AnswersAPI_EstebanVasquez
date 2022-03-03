@@ -142,4 +142,10 @@
       <Name>AnswersAPP_EstebanVasquez</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\backapp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\GenericUser.png" />
+  </ItemGroup>
 </Project>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnswersAPP_EstebanVasquez.Views.UserRegisterPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <AbsoluteLayout HeightRequest="100" FlowDirection="LeftToRight" VerticalOptions="Center" HorizontalOptions="Center" IsVisible="True" IsClippedToBounds="True" HorizontalOptions="Center" >
+                <Image Scale="0.7" Source="GenericUser"/>
+            </AbsoluteLayout>
+            <Entry x:Name="TxtUsername" Placeholder="Email" FontSize="Large" TextColor="Black" BackgroundColor="White" TextTransform="Lowercase" Keyboard="Email" />
+            <Entry x:Name="TxtFirstName" Placeholder="First Name" FontSize="Large" TextColor="Black" BackgroundColor="White" TextTransform="Lowercase" />
+            <Entry x:Name="TxtLastName" Placeholder="Last Name" FontSize="Large" TextColor="Black" BackgroundColor="White" TextTransform="Lowercase" />
+            <Entry x:Name="TxtPhoneNumber" Placeholder="Phone Number" FontSize="Large" TextColor="Black" BackgroundColor="White" TextTransform="Lowercase" Keyboard="Telephone" />
+            <Entry x:Name="TxtPassword" Placeholder="Password" FontSize="Large" TextColor="Black" BackgroundColor="White" IsPassword="True" />
+            <Switch x:Name="SwSeePassword" IsToggled="False" OnColor="White" Toggled="CmdSeePassword" />
+            <Entry x:Name="TxtBackUpEmail" Placeholder="Backup Email" FontSize="Large" TextColor="Black" BackgroundColor="White" TextTransform="Lowercase" Keyboard="Email" />
+            <Picker Title="Job Description" />
+            <Grid VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition Width="120"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Button Text="Register" x:Name="BtnRegister" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Grid.Row="0" Grid.Column="0" BackgroundColor="Green" FontSize="Medium" />
+                <Button Text="Cancel" x:Name="BtnCancel" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Grid.Row="0" Grid.Column="1" BackgroundColor="Red" FontSize="Medium" />
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
