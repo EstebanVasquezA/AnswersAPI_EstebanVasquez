@@ -12,10 +12,11 @@ namespace AnswersAPP_EstebanVasquez.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class LoginPage : ContentPage
     {
+        UserViewModel Vm;
         public LoginPage()
         {
             InitializeComponent();
-            this.BindingContext = new LoginViewModel();
+            this.BindingContext = Vm = new UserViewModel();
         }
 
         public void CmdSeePassword(object sender, ToggledEventArgs e)
@@ -33,6 +34,23 @@ namespace AnswersAPP_EstebanVasquez.Views
         private async void CmdUserRegister(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new UserRegisterPage());
+        }
+
+        private async void BtnLogin_Clicked(object sender, EventArgs e)
+        {
+            bool R = await Vm.ValidateUserAccess(TxtUsername.Text.Trim(), TxtPassword.Text.Trim());
+            
+            if (R)
+            {
+                await DisplayAlert("Info", "User Access Granted", "OK");
+
+                //await Navigation.PushAsync(new OptionsPage());
+            }
+            else
+            {
+                await DisplayAlert("Error", "Incorrect username or password!", "OK");
+                TxtPassword.Focus();
+            }
         }
     }
 }

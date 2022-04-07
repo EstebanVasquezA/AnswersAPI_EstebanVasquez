@@ -13,7 +13,6 @@ namespace AnswersAPP_EstebanVasquez
         {
             InitializeComponent();
 
-            DependencyService.Register<MockDataStore>();
             MainPage = new NavigationPage(new LoginPage());
         }
 

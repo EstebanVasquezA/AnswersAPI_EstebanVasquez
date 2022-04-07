@@ -633,3 +633,12 @@ C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\Answ
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\RestSharp.dll
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Buffers.dll
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Memory.dll
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Text.Encodings.Web.dll
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Text.Json.dll
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Threading.Tasks.Extensions.dll

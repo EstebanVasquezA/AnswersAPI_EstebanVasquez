@@ -1,12 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "bu0EO06GIqqYTuT/gwy7zq05XrRHNosENR4SUv4TyXnsEOpr9Ah0HF+T1JeaW1gb3mVABF1zxWFLj0hWhxM9MQ==",
+  "dgSpecHash": "Bpn6oxg7TQOm0DW0BalRCRZwftOj/gQIULDvq3MGlHCuLRB35do5se0DaHNEUhSgu56Dnd9zFD9Q207GdJQoIQ==",
   "success": true,
   "projectFilePath": "C:\\ProyectoClaseProgra6\\AnswersAPP_EstebanVasquez\\AnswersAPP_EstebanVasquez\\AnswersAPP_EstebanVasquez.iOS\\AnswersAPP_EstebanVasquez.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Asus VivoBook\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
+    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
     "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
-    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.forms\\5.0.0.2337\\xamarin.forms.5.0.0.2337.nupkg.sha512"
+    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.forms\\5.0.0.2401\\xamarin.forms.5.0.0.2401.nupkg.sha512"
   ],
   "logs": []
 }
