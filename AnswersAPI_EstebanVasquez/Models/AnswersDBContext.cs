@@ -32,7 +32,7 @@ namespace AnswersAPI_EstebanVasquez.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("SERVER=.;DATABASE=AnswersDB;User Id=AnswerUser;Password=admin");
+                optionsBuilder.UseSqlServer("SERVER=.;DATABASE=AnswersDB; User Id=AnswerUser; Password=admin");
             }
         }
 
@@ -245,7 +245,7 @@ namespace AnswersAPI_EstebanVasquez.Models
 
                 entity.Property(e => e.UserRoleId).HasColumnName("UserRoleID");
 
-                entity.Property(e => e.UserStatuId).HasColumnName("UserStatuID");
+                entity.Property(e => e.UserStatusId).HasColumnName("UserStatusID");
 
                 entity.HasOne(d => d.Country)
                     .WithMany(p => p.Users)
@@ -259,9 +259,9 @@ namespace AnswersAPI_EstebanVasquez.Models
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FKUser854768");
 
-                entity.HasOne(d => d.UserStatu)
+                entity.HasOne(d => d.UserStatus)
                     .WithMany(p => p.Users)
-                    .HasForeignKey(d => d.UserStatuId)
+                    .HasForeignKey(d => d.UserStatusId)
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FKUser472287");
             });
@@ -281,12 +281,9 @@ namespace AnswersAPI_EstebanVasquez.Models
 
             modelBuilder.Entity<UserStatus>(entity =>
             {
-                entity.HasKey(e => e.UserStatuId)
-                    .HasName("PK__UserStat__DE1EE8FBEE2684B2");
-
                 entity.ToTable("UserStatus");
 
-                entity.Property(e => e.UserStatuId).HasColumnName("UserStatuID");
+                entity.Property(e => e.UserStatusId).HasColumnName("UserStatusID");
 
                 entity.Property(e => e.Status)
                     .IsRequired()

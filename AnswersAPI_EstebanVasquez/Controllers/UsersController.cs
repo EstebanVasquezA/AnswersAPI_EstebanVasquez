@@ -6,18 +6,21 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using AnswersAPI_EstebanVasquez.Models;
+using AnswersAPI_EstebanVasquez.Attributes;
 
 namespace AnswersAPI_EstebanVasquez.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [ApiKey]
     public class UsersController : ControllerBase
     {
         private readonly AnswersDBContext _context;
-
+        private Tools.Crypto MyCrypto { get; set; }
         public UsersController(AnswersDBContext context)
         {
             _context = context;
+            MyCrypto = new Tools.Crypto();
         }
 
         // GET: api/Users
@@ -38,6 +41,20 @@ namespace AnswersAPI_EstebanVasquez.Controllers
                 return NotFound();
             }
 
+            return user;
+        }
+
+        [HttpGet("ValidateUserLogin")]
+        public async Task<ActionResult<User>> ValidateUserLogin(string pEmail, string pPassword)
+        {
+            //TAREA: Hacer la consulta de abajo usando linQ
+            string ApiLevelEncriptedPassword = MyCrypto.EncriptarEnUnSentido(pPassword);
+            var user = await _context.Users.SingleOrDefaultAsync(e => e.UserName == pEmail &&
+                                                                 e.UserPassword == ApiLevelEncriptedPassword);
+            if (user == null)
+            {
+                return NotFound();
+            }
             return user;
         }
 
@@ -77,6 +94,9 @@ namespace AnswersAPI_EstebanVasquez.Controllers
         [HttpPost]
         public async Task<ActionResult<User>> PostUser(User user)
         {
+            string ApiLevelEncriptedPassword = MyCrypto.EncriptarEnUnSentido(user.UserPassword);
+            user.UserPassword = ApiLevelEncriptedPassword;
+
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
 
