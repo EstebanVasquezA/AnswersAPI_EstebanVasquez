@@ -89,9 +89,15 @@ namespace AnswersAPI_EstebanVasquez.Models
                     .IsUnicode(false)
                     .HasColumnName("Ask");
 
+                entity.Property(e => e.AskDetail).IsUnicode(false);
+
                 entity.Property(e => e.AskStatusId).HasColumnName("AskStatusID");
 
                 entity.Property(e => e.Date).HasColumnType("smalldatetime");
+
+                entity.Property(e => e.ImageUrl)
+                    .IsUnicode(false)
+                    .HasColumnName("ImageURL");
 
                 entity.Property(e => e.IsStrike)
                     .IsRequired()

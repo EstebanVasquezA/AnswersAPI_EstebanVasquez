@@ -6,11 +6,13 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using AnswersAPI_EstebanVasquez.Models;
+using AnswersAPI_EstebanVasquez.Attributes;
 
 namespace AnswersAPI_EstebanVasquez.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [ApiKey]
     public class AsksController : ControllerBase
     {
         private readonly AnswersDBContext _context;
@@ -18,6 +20,20 @@ namespace AnswersAPI_EstebanVasquez.Controllers
         public AsksController(AnswersDBContext context)
         {
             _context = context;
+        }
+
+        // GET: api/Asks
+        [HttpGet("GetQuestionsListByUserID")]
+        public async Task<ActionResult<IEnumerable<Ask>>> GetQuestionsListByUserID(int pUserID)
+        {
+            var QList = await _context.Asks.Where(u => u.UserId == pUserID).ToListAsync();
+
+            if (QList == null)
+            {
+                return NotFound();
+            }
+
+            return QList;
         }
 
         // GET: api/Asks
