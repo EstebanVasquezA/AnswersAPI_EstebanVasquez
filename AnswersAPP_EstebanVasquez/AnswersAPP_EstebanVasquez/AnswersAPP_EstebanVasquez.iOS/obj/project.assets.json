@@ -83,7 +83,7 @@
           "lib/netstandard2.0/System.Text.Json.dll": {}
         }
       },
-      "Xamarin.Essentials/1.7.1": {
+      "Xamarin.Essentials/1.7.2": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -229,7 +229,7 @@
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
           "RestSharp": "107.3.0",
-          "Xamarin.Essentials": "1.7.1",
+          "Xamarin.Essentials": "1.7.2",
           "Xamarin.Forms": "5.0.0.2401"
         },
         "compile": {
@@ -322,7 +322,7 @@
           "lib/netstandard2.0/System.Text.Json.dll": {}
         }
       },
-      "Xamarin.Essentials/1.7.1": {
+      "Xamarin.Essentials/1.7.2": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -468,7 +468,7 @@
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
           "RestSharp": "107.3.0",
-          "Xamarin.Essentials": "1.7.1",
+          "Xamarin.Essentials": "1.7.2",
           "Xamarin.Forms": "5.0.0.2401"
         },
         "compile": {
@@ -561,7 +561,7 @@
           "lib/netstandard2.0/System.Text.Json.dll": {}
         }
       },
-      "Xamarin.Essentials/1.7.1": {
+      "Xamarin.Essentials/1.7.2": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -707,7 +707,7 @@
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
           "RestSharp": "107.3.0",
-          "Xamarin.Essentials": "1.7.1",
+          "Xamarin.Essentials": "1.7.2",
           "Xamarin.Forms": "5.0.0.2401"
         },
         "compile": {
@@ -800,7 +800,7 @@
           "lib/netstandard2.0/System.Text.Json.dll": {}
         }
       },
-      "Xamarin.Essentials/1.7.1": {
+      "Xamarin.Essentials/1.7.2": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -946,7 +946,7 @@
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
           "RestSharp": "107.3.0",
-          "Xamarin.Essentials": "1.7.1",
+          "Xamarin.Essentials": "1.7.2",
           "Xamarin.Forms": "5.0.0.2401"
         },
         "compile": {
@@ -1184,10 +1184,10 @@
         "version.txt"
       ]
     },
-    "Xamarin.Essentials/1.7.1": {
-      "sha512": "u7pUgvHJKTYo5ATiwRZvYviq2O0AQXIqxdna+sMxqidfWpbD7FBgFOLNAZzWKSll/AQBPeDrqLAWZNLq+ztpmQ==",
+    "Xamarin.Essentials/1.7.2": {
+      "sha512": "3r2QA/54YZGw6o+cBmIQdvs9nkT1SNHHvFGl1jg2bJ/INmsPdSU4ddrwhIw6zSWSIMRbemKvXEVov1KwjRk6PQ==",
       "type": "package",
-      "path": "xamarin.essentials/1.7.1",
+      "path": "xamarin.essentials/1.7.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1222,7 +1222,7 @@
         "lib/xamarinwatchos10/Xamarin.Essentials.pdb",
         "lib/xamarinwatchos10/Xamarin.Essentials.xml",
         "readme.txt",
-        "xamarin.essentials.1.7.1.nupkg.sha512",
+        "xamarin.essentials.1.7.2.nupkg.sha512",
         "xamarin.essentials.nuspec"
       ]
     },
@@ -1453,7 +1453,7 @@
       "AnswersAPP_EstebanVasquez >= 1.0.0",
       "Newtonsoft.Json >= 13.0.1",
       "RestSharp >= 107.3.0",
-      "Xamarin.Essentials >= 1.7.1",
+      "Xamarin.Essentials >= 1.7.2",
       "Xamarin.Forms >= 5.0.0.2401"
     ]
   },
@@ -1512,7 +1512,7 @@
           },
           "Xamarin.Essentials": {
             "target": "Package",
-            "version": "[1.7.1, )"
+            "version": "[1.7.2, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pGb/glr4qWxTFfy0gSkRfM2ScQAbdSFXQIm8Y1eYyNvVCJaVIySqCvw+uTwtZvFIzPqlq9JodJlc8/aF6/fjyg==",
+  "dgSpecHash": "2ZtBB+1qFONRPeNnpdlu61EeXhOPGda7JS7wp0gxOUVpqAABFT3J1WTQPmfbJaIJe7T39IypvYx3/u0rCDsdnA==",
   "success": true,
   "projectFilePath": "C:\\ProyectoClaseProgra6\\AnswersAPP_EstebanVasquez\\AnswersAPP_EstebanVasquez\\AnswersAPP_EstebanVasquez.Android\\AnswersAPP_EstebanVasquez.Android.csproj",
   "expectedPackageFiles": [
@@ -65,7 +65,7 @@
     "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.androidx.versionedparcelable\\1.1.1.8\\xamarin.androidx.versionedparcelable.1.1.1.8.nupkg.sha512",
     "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.androidx.viewpager\\1.0.0.8\\xamarin.androidx.viewpager.1.0.0.8.nupkg.sha512",
     "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.androidx.viewpager2\\1.0.0.10\\xamarin.androidx.viewpager2.1.0.0.10.nupkg.sha512",
-    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
+    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.essentials\\1.7.2\\xamarin.essentials.1.7.2.nupkg.sha512",
     "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.forms\\5.0.0.2401\\xamarin.forms.5.0.0.2401.nupkg.sha512",
     "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.google.android.material\\1.4.0.2\\xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"

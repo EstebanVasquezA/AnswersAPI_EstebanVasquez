@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Bpn6oxg7TQOm0DW0BalRCRZwftOj/gQIULDvq3MGlHCuLRB35do5se0DaHNEUhSgu56Dnd9zFD9Q207GdJQoIQ==",
+  "dgSpecHash": "DTlx8K/dOJa7fmud4jWYtGtG6qSWc1yXCBdHxs7QBEHJEnPFUxJUrE9M27E6qI1yz2lxw3mfHjNY/DnubHVpyQ==",
   "success": true,
   "projectFilePath": "C:\\ProyectoClaseProgra6\\AnswersAPP_EstebanVasquez\\AnswersAPP_EstebanVasquez\\AnswersAPP_EstebanVasquez.iOS\\AnswersAPP_EstebanVasquez.iOS.csproj",
   "expectedPackageFiles": [
@@ -12,7 +12,7 @@
     "C:\\Users\\Asus VivoBook\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
     "C:\\Users\\Asus VivoBook\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
     "C:\\Users\\Asus VivoBook\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
-    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
+    "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.essentials\\1.7.2\\xamarin.essentials.1.7.2.nupkg.sha512",
     "C:\\Users\\Asus VivoBook\\.nuget\\packages\\xamarin.forms\\5.0.0.2401\\xamarin.forms.5.0.0.2401.nupkg.sha512"
   ],
   "logs": []

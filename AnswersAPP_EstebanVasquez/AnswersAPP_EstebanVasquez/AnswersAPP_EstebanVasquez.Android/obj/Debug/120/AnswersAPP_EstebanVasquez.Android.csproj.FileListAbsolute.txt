@@ -29,6 +29,9 @@ C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\Answ
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\lp\97\jl\files.cache
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\lp\98\jl\files.cache
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\lp\103\jl\files.cache
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\R.txt
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\R.cs.flag
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\AnswersAPP_EstebanVasquez.Android.csproj.CoreCompileInputs.cache
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\bin\Debug\AnswersAPP_EstebanVasquez.Android.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\bin\Debug\AnswersAPP_EstebanVasquez.Android.pdb
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\bin\Debug\com.companyname.answersapp_estebanvasquez.apk
@@ -38,9 +41,6 @@ C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\Answ
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\bin\Debug\com.companyname.answersapp_estebanvasquez-Signed.apk.idsig
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\bin\Debug\AnswersAPP_EstebanVasquez.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\bin\Debug\AnswersAPP_EstebanVasquez.pdb
-C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\R.txt
-C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\R.cs.flag
-C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\AnswersAPP_EstebanVasquez.Android.csproj.CoreCompileInputs.cache
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\AnswersAPP_EstebanVasquez.Android.csproj.CopyComplete
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\AnswersAPP_EstebanVasquez.Android.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\AnswersAPP_EstebanVasquez.Android.pdb
@@ -67,6 +67,7 @@ C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\Answ
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\res\drawable\icon_feed.png
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\res\drawable\backapp.png
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\res\drawable\genericuser.png
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\res\drawable\trinomio.png
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\uploadflags.txt
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\resolvedassemblies.hash
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\AnswersAPP_EstebanVasquez.Android.dll
@@ -76,6 +77,7 @@ C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\Answ
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\FormsViewGroup.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\FormsViewGroup.pdb
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\Java.Interop.dll
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\Microsoft.Bcl.AsyncInterfaces.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\Mono.Android.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\Mono.Android.pdb
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\Mono.Security.dll
@@ -83,6 +85,9 @@ C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\Answ
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\mscorlib.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\mscorlib.pdb
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\netstandard.dll
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\RestSharp.dll
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Buffers.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.ComponentModel.Composition.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.ComponentModel.Composition.pdb
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Core.dll
@@ -98,6 +103,7 @@ C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\Answ
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.IO.Compression.FileSystem.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.IO.Compression.FileSystem.pdb
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.IO.Compression.pdb
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Memory.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Net.Http.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Net.Http.pdb
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Numerics.dll
@@ -105,11 +111,15 @@ C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\Answ
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Numerics.Vectors.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Numerics.Vectors.pdb
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.pdb
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Runtime.CompilerServices.Unsafe.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Runtime.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Runtime.Serialization.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Runtime.Serialization.pdb
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.ServiceModel.Internals.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.ServiceModel.Internals.pdb
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Text.Encodings.Web.dll
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Text.Json.dll
+C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Threading.Tasks.Extensions.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Transactions.dll
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Transactions.pdb
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Web.Services.dll
@@ -633,12 +643,3 @@ C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\Answ
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
-C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\Microsoft.Bcl.AsyncInterfaces.dll
-C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll
-C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\RestSharp.dll
-C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Buffers.dll
-C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Memory.dll
-C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Runtime.CompilerServices.Unsafe.dll
-C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Text.Encodings.Web.dll
-C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Text.Json.dll
-C:\ProyectoClaseProgra6\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez\AnswersAPP_EstebanVasquez.Android\obj\Debug\120\android\assets\System.Threading.Tasks.Extensions.dll

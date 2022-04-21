@@ -12,7 +12,7 @@
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "13.0.1",
           "RestSharp": "107.3.0",
-          "Xamarin.Essentials": "1.7.1",
+          "Xamarin.Essentials": "1.7.2",
           "Xamarin.Forms": "5.0.0.2401"
         },
         "runtime": {
@@ -131,7 +131,7 @@
           }
         }
       },
-      "Xamarin.Essentials/1.7.1": {
+      "Xamarin.Essentials/1.7.2": {
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
         },
@@ -250,12 +250,12 @@
       "path": "system.threading.tasks.extensions/4.5.4",
       "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
     },
-    "Xamarin.Essentials/1.7.1": {
+    "Xamarin.Essentials/1.7.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-u7pUgvHJKTYo5ATiwRZvYviq2O0AQXIqxdna+sMxqidfWpbD7FBgFOLNAZzWKSll/AQBPeDrqLAWZNLq+ztpmQ==",
-      "path": "xamarin.essentials/1.7.1",
-      "hashPath": "xamarin.essentials.1.7.1.nupkg.sha512"
+      "sha512": "sha512-3r2QA/54YZGw6o+cBmIQdvs9nkT1SNHHvFGl1jg2bJ/INmsPdSU4ddrwhIw6zSWSIMRbemKvXEVov1KwjRk6PQ==",
+      "path": "xamarin.essentials/1.7.2",
+      "hashPath": "xamarin.essentials.1.7.2.nupkg.sha512"
     },
     "Xamarin.Forms/5.0.0.2401": {
       "type": "package",

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnswersAPP_EstebanVasquez.Views.ActionsPage">
+    <ContentPage.Content>
+
+        <ScrollView>
+           <Grid>
+                <Label Text="Select an Action" VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand" 
+                       HorizontalTextAlignment="Center" FontSize="30"/>
+                <FlexLayout Wrap="Wrap" JustifyContent="SpaceEvenly" Direction="Row" Padding="20,20,20,0" AlignContent="Start"
+                            BackgroundColor="White" Margin="0, 50, 0, 10">
+                    <Button x:Name="BtnViewMyQuestions" Text="My Questions" BackgroundColor="Blue" TextColor="White"
+                            HeightRequest="150" WidthRequest="150" FontSize="18" HorizontalOptions="Center"
+                            CornerRadius="25" Margin="5,5,5,5" Clicked="BtnViewMyQuestions_Clicked"/>
+                    <Button x:Name="BtnAddQuestion" Text="Add Question" BackgroundColor="Blue" TextColor="White"
+                            HeightRequest="150" WidthRequest="150" FontSize="18" HorizontalOptions="Center"
+                            CornerRadius="25" Margin="5,5,5,5"/>
+                    <Button x:Name="BtnViewMyAnswers" Text="My Answers" BackgroundColor="Blue" TextColor="White"
+                            HeightRequest="150" WidthRequest="150" FontSize="18" HorizontalOptions="Center"
+                            CornerRadius="25" Margin="5,5,5,5"/>
+                    <Button x:Name="BtnUserConfig" Text="Config" BackgroundColor="Blue" TextColor="White"
+                            HeightRequest="150" WidthRequest="150" FontSize="18" HorizontalOptions="Center"
+                            CornerRadius="25" Margin="5,5,5,5"/>
+                </FlexLayout>
+            </Grid>    
+        </ScrollView>
+        
+    </ContentPage.Content>
+</ContentPage>

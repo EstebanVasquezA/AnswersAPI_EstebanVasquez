@@ -44,7 +44,7 @@ namespace AnswersAPP_EstebanVasquez.Views
             {
                 await DisplayAlert("Info", "User Access Granted", "OK");
 
-                //await Navigation.PushAsync(new OptionsPage());
+                await Navigation.PushAsync(new ActionsPage());
             }
             else
             {

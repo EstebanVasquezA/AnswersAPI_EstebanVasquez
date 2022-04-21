@@ -14,7 +14,7 @@ namespace AnswersAPP_EstebanVasquez.Droid
 {
 	
 	
-	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "12.2.0.155")]
+	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "12.2.4.160")]
 	public partial class Resource
 	{
 		
@@ -16676,7 +16676,10 @@ namespace AnswersAPP_EstebanVasquez.Droid
 			public const int tooltip_frame_light = 2131165331;
 			
 			// aapt resource value: 0x7F070094
-			public const int xamarin_logo = 2131165332;
+			public const int trinomio = 2131165332;
+			
+			// aapt resource value: 0x7F070095
+			public const int xamarin_logo = 2131165333;
 			
 			static Drawable()
 			{
