@@ -37,7 +37,7 @@ namespace AnswersAPP_EstebanVasquez.Models
         {
             try
             {
-                string RouteSufix = string.Format("Users/GetQuestionsListByUserID?pUserID={0}",
+                string RouteSufix = string.Format("Asks/GetQuestionsListByUserID?pUserID={0}",
                                                    this.UserId);
                 string FinalApiRoute = CnnToAPI.ProductionRoute + RouteSufix;
 

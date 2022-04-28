@@ -33,7 +33,7 @@ namespace AnswersAPP_EstebanVasquez.Views
 
         private async void CmdUserRegister(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new UserRegisterPage());
+            await Navigation.PushAsync(new UserRegisterPageV2());
         }
 
         private async void BtnLogin_Clicked(object sender, EventArgs e)

@@ -21,7 +21,12 @@ namespace AnswersAPP_EstebanVasquez.Views
 
             askViewModel.MyQuestion.UserId = 8;
 
-            LstMyQuestions.ItemsSource = (System.Collections.IEnumerable)askViewModel.GetQList();
+            Loadlist();
+        }
+
+        private async void Loadlist()
+        {
+            LstMyQuestions.ItemsSource = await askViewModel.GetQList();
         }
     }
 }

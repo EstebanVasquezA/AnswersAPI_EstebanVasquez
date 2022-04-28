@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnswersAPP_EstebanVasquez.Views.UserRegisterPageV2"
+             xmlns:viewmodels="clr-namespace:AnswersAPP_EstebanVasquez.ViewModels" x:DataType="viewmodels:UserViewModelV2">
+    <ContentPage.Content>
+        
+        <StackLayout>
+            <AbsoluteLayout HeightRequest="100" FlowDirection="LeftToRight" VerticalOptions="Center" HorizontalOptions="Center" IsVisible="True" IsClippedToBounds="True">
+                <Image Scale="0.7" Source="GenericUser"/>
+            </AbsoluteLayout>
+            <Entry x:Name="TxtUsername" Placeholder="Email" FontSize="Large" TextColor="Black" BackgroundColor="White" TextTransform="Lowercase" Keyboard="Email" Text="{Binding NombreDeUsuario}"/>
+            <Entry x:Name="TxtFirstName" Placeholder="First Name" FontSize="Large" TextColor="Black" BackgroundColor="White" TextTransform="Lowercase" Text="{Binding Nombre}"/>
+            <Entry x:Name="TxtLastName" Placeholder="Last Name" FontSize="Large" TextColor="Black" BackgroundColor="White" TextTransform="Lowercase" Text="{Binding Apellidos}"/>
+            <Entry x:Name="TxtPhoneNumber" Placeholder="Phone Number" FontSize="Large" TextColor="Black" BackgroundColor="White" TextTransform="Lowercase" Keyboard="Telephone" Text="{Binding Telefono}"/>
+            <Entry x:Name="TxtPassword" Placeholder="Password" FontSize="Large" TextColor="Black" BackgroundColor="White" IsPassword="True" Text="{Binding Contrasenna}"/>
+            <Switch x:Name="SwSeePassword" IsToggled="False" OnColor="White" Toggled="CmdSeePassword" />
+            <Entry x:Name="TxtBackUpEmail" Placeholder="Backup Email" FontSize="Large" TextColor="Black" BackgroundColor="White" TextTransform="Lowercase" Keyboard="Email" Text="{Binding EmailRespaldo}"/>
+            <Entry x:Name="TxtJobDescription" Placeholder="Job Description" FontSize="Large" TextColor="Black" BackgroundColor="White" Text="{Binding DescripcionTrabajo}"/>
+            <Picker x:Name="CboUserRole" Title="Select a User Role" TitleColor="Black">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>registered</x:String>
+                        <x:String>unregistered</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <Grid VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition Width="120"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Button Text="Register" x:Name="BtnRegister" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Grid.Row="0" Grid.Column="0" BackgroundColor="Green" FontSize="Medium" Command="{Binding AgregarUsuarioCommand}"/>
+                <Button Text="Cancel" x:Name="BtnCancel" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Grid.Row="0" Grid.Column="1" BackgroundColor="Red" FontSize="Medium" />
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

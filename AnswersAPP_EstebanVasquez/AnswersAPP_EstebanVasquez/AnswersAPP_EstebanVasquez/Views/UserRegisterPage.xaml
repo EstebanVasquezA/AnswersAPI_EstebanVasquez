@@ -16,7 +16,12 @@
             <Entry x:Name="TxtBackUpEmail" Placeholder="Backup Email" FontSize="Large" TextColor="Black" BackgroundColor="White" TextTransform="Lowercase" Keyboard="Email" />
             <Entry x:Name="TxtJobDescription" Placeholder="Job Description" FontSize="Large" TextColor="Black" BackgroundColor="White" />
             <Picker x:Name="CboUserRole" Title="Select a User Role" TitleColor="Black">
-                
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>registered</x:String>
+                        <x:String>unregistered</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
             </Picker>
             <Grid VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
                 <Grid.RowDefinitions>

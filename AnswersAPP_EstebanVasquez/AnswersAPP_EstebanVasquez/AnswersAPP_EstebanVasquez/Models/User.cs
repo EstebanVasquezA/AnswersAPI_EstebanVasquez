@@ -23,6 +23,8 @@ namespace AnswersAPP_EstebanVasquez.Models
             ChatReceivers = new HashSet<Chat>();
             ChatSenders = new HashSet<Chat>();
             Likes = new HashSet<Like>();
+
+            UserRole = new UserRole();
         }
 
         public int UserId { get; set; }

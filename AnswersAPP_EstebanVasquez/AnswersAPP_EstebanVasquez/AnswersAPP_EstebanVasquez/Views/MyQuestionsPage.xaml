@@ -6,10 +6,10 @@
 
         <ScrollView>
             <StackLayout>
-                <Label Text="Welcome to Xamarin.Forms!"
+                <Label Text="My Questions List"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
-                <ListView x:Name="LstMyQuestions" RowHeight="300">
+                <ListView x:Name="LstMyQuestions" RowHeight="150" BackgroundColor="DarkGray">
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <ImageCell Text="{Binding Ask1}" Detail="{Binding AskDetail}" ImageSource="{Binding ImageURL}"
